@@ -22,3 +22,18 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
+
+
+
+<script type="text/javasript">
+ var apple="item.quantity";
+ 
+	if (apple>1)
+		{
+			table.packing_list col 
+			{
+				border: 2px solid yellow;
+				background-color:#ff6347;
+			}
+		{
+</script>
