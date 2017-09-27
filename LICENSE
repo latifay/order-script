@@ -3,7 +3,6 @@
 
 <script type="text/javasript">
  var apple="item.quantity";
- 
 	if (apple>1)
 		{
 			table.packing_list col 
